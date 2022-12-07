@@ -48,10 +48,8 @@
 
 <hr>
 <p align="center">
-  <!---
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashwin-kr19&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Ashwin-kr19" /> 
---->
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Ashwin-kr19&theme=tokyonight&hide_border=true&fire=DD5035&ring=CF7B1DD4" alt="Ashwin-kr19" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sriram-Subramanian-02&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Sriram-Subramanian-02" /> 
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Sriram-Subramanian-02&theme=tokyonight&hide_border=true&fire=DD5035&ring=CF7B1DD4" alt="Sriram-Subramanian-02" />
 </p>
 
 
