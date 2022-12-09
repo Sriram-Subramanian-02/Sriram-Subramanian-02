@@ -2,8 +2,8 @@
 - 👀 I’m interested in expolring new ideas.
 - 🌱 I’m currently studying in PSG College Of Technology pursing the course MSc.Data Science
 - 📫 How to reach me: eMail - [sriramsubramanian1968@gmail.com](mailto:sriramsubramanian1968@gmail.com)
-- 😄 Interests : Programming👨‍💻 | Movies🍿 | Football⚽ |music🎶
-- 🚴‍♂️ Hobby :  video games🎮 | cycling
+- 😄 Interests : Programming👨‍💻 | Movies🍿 | Football⚽ | Cricket 🏏
+- 🚴‍♂️ Hobby :  Cycling 🚴‍♂️
 
 
 <h3 align="left">Languages and Tools:</h3>
