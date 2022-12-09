@@ -32,6 +32,10 @@
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="sql" />
   </a>
+  
+  <a>
+    <img src="![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)" alt="Elastic Search" />
+  </a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
