@@ -34,7 +34,7 @@
   </a>
   
   <a>
-    <img src="![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)" alt="Elastic Search" />
+    <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" alt="Elastic Search" />
   </a>
 </p>
 
