@@ -38,29 +38,3 @@
   </a>
 </p>
 
-<! --
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<p align="left">
-<a href="https://www.linkedin.com/in/ashwin-kr-5866a0220/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[ashwin-kr-5866a0220]" height="30" width="40" />
-</a>
-<a href="https://instagram.com/kr.ash.win" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kr.ash.win" height="30" width="40" />
-</a>
-</p>
-
-
-<hr>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sriram-Subramanian-02&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Sriram-Subramanian-02" /> 
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Sriram-Subramanian-02&theme=tokyonight&hide_border=true&fire=DD5035&ring=CF7B1DD4" alt="Sriram-Subramanian-02" />
-</p>
-
-
-
-
-Ashwin-kr19/Ashwin-kr19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
